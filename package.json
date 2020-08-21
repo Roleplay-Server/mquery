@@ -1,5 +1,5 @@
 {
-  "name": "@edenjs/mquery",
+  "name": "@fivem-rp/mquery",
   "version": "3.2.0",
   "description": "Expressive query building for MongoDB",
   "main": "lib/mquery.js",
@@ -10,13 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/aheckmann/mquery.git"
+    "url": "git://github.com/Roleplay-Server/mquery.git"
   },
   "engines": {
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "bluebird": "^3.5.4",
     "debug": "^4.1.1",
     "regexp-clone": "0.0.1",
     "safe-buffer": "5.1.2",
@@ -29,7 +28,7 @@
     "mongodb": "^3.2.3"
   },
   "bugs": {
-    "url": "https://github.com/aheckmann/mquery/issues/new"
+    "url": "https://github.com/Roleplay-Server/mquery/issues/new"
   },
   "author": "Aaron Heckmann <aaron.heckmann+github@gmail.com>",
   "license": "MIT",
@@ -38,7 +37,7 @@
     "query",
     "builder"
   ],
-  "homepage": "https://github.com/aheckmann/mquery/",
+  "homepage": "https://github.com/Roleplay-Server/mquery/",
   "eslintConfig": {
     "env": {
       "node": true,
